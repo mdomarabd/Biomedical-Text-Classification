@@ -1,4 +1,4 @@
-# 🧬 Biomedical Abstract NLP Dashboard
+# 🧬 Automated Biomedical Text Classification & Topic Discovery Platform
 
 An interactive NLP dashboard built with Streamlit for classifying biomedical abstracts and performing advanced text analysis.
 
@@ -37,8 +37,8 @@ An interactive NLP dashboard built with Streamlit for classifying biomedical abs
 
 ### 1. Clone the repository
 ```bash
-git clone <YOUR_REPO_URL>
-cd "DS Project"
+git clone https://github.com/mdomarabd/Automated-Biomedical-Text-Classification-Topic-Discovery-Platform.git
+cd Automated-Biomedical-Text-Classification-Topic-Discovery-Platform
 ```
 
 ### 2. Create and activate a virtual environment (optional but recommended)
@@ -59,3 +59,4 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
