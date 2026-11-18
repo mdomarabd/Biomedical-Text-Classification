@@ -1,0 +1,7 @@
+streamlit
+joblib
+nltk
+pandas
+matplotlib
+scikit-learn
+gensim
